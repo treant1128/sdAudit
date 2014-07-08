@@ -1,0 +1,282 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html ng-app="myApp">
+<head>
+<title>悟空审核平台</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link type="text/css" href="css/custom-theme/jquery-ui-1.10.0.custom.css" rel="stylesheet" />
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    
+<style type="text/css">
+body {
+padding-top: 60px;
+padding-bottom: 40px;
+}
+.sidebar-nav {
+padding: 9px 0;
+}
+
+@media (max-width: 980px) {
+/* Enable use of floated navbar text */
+.navbar-text.pull-right {
+  float: none;
+  padding-left: 5px;
+  padding-right: 5px;
+ }
+}
+
+#myModal{
+	width:800px;
+	height: 700px;
+	margin:0px 0px 0px -450px;
+}
+#myModal .modal-body{
+	max-height: 700px;
+}
+#addTaskFrame{
+
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 800px;
+	height: 700px;
+}
+#scrollUp{
+  bottom: 20px;
+  right: 20px;
+  height: 38px;   /* Height of image */
+  width: 38px;   /* Width of image */
+  background: url("img/top.png") no-repeat;
+}
+</style>
+</head>
+
+<body ng-controller="TasksCtrl">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.10.0.custom.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-resource.min.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    
+    <script src="tasks.js"></script>
+    
+
+<!--使用TasksController-->
+<div>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="#">悟空审核下发平台</a>
+          <div class="nav-collapse collapse">
+            <p class="navbar-text pull-right" >
+              <a href="#" class="navbar-link" ng-click="Logout()">退出</a>
+            </p>
+            <p class="navbar-text pull-right" style="margin-right:5px;">
+            欢迎您: <a href="#" class="navbar-link">{{region}} - {{user}}</a>
+            </p>
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+    	<div class="row-fluid">
+
+<!-- Main content Stared-->
+<div class="span12">
+
+
+<div class="row-fluid">
+<div class="form-horizontal">
+  <legend>查询以及功能</legend>
+<!--
+  <div class="pagination pagination-centered">
+     <ul ng-repeat = "page in pages">
+       <li><a href="#" ng-click='loadPage(page.start)'>第{{page.pageNumber}}页</a></li>
+     </ul>  -->
+   </div>
+<!--    	<div class="control-group">
+  
+<button id="addSendPlan_btn" class="btn btn-primary" data-toggle="modal" data-target="#myModal">添加下发计划</button>
+
+    </div>  -->
+    </div>
+全文搜索：&nbsp;&nbsp;<input ng-model="search.tHeader" placeholder="搜索...">
+<div>
+排序规则：
+  <select ng-model="orderProp">
+    <option value="tDateTime">按时间</option>
+    <option value="_id">按编号</option>
+  </select>
+</div>
+
+<ul class="pager">
+  <li><a href="#" ng-click = 'loadPage(-1)'>上一页</a></li>
+  <li><a href="#">第{{currentPage}}/{{pages.length}}页</a></li>
+  <li><a href="#" ng-click = 'loadPage(1)'>下一页</a></li>
+<ul>
+
+<table class="table table-striped">
+  <thead>
+    <th>编号</th>
+    <th>状态</th>
+    <th>备注</th>
+		<th>分公司</th>
+		<th>属性</th>
+		<th>标题</th>
+		<th>URL</th>
+		<th>下发日期</th>
+		<th>优先级</th>
+		<th>提交人</th>
+		<th>操作</th>
+	</thead>
+  <tbody>
+    <tr ng-repeat="task in tasks | filter : search | orderBy : orderProp : true" class="{{task.statu.audit}}">
+      <td>{{task._id}}</td>
+      <td><i class="{{task.statu.icon}}"></i></td>
+      <td>{{task.tComment}}</td>
+      <td>{{task.region}}</td>
+      <td>
+        <span ng-repeat="key in task.userType | weDontLike : 'Adam' ">
+          {{
+          key
+          }}
+        </span>
+      </td>
+      <td>{{task.tHeader}}</td>
+      <td><a href="{{task.tURL}}" target="_blank">{{task.tURL}}</a></td>
+      <td>{{task.tDateTime}}</td>
+      <td>{{task.tPriv}}</td>
+      <td>{{task.tOperator}}</td>
+      <td>
+        <a data-toggle="modal" data-target="#auditModal"><i class="icon-ok-sign" ng-click="auditTask(task._id, task.originId)"></i></a>
+        <a data-toggle="modal" data-target="#denyModal"><i class="icon-remove-sign" ng-click="denyTask(task._id, task.originId)"></i></a>
+      </td>												
+    </tr>
+
+  </tbody>	
+  </table>
+
+  <ul class="pager">
+    <li><a href="#" ng-click = 'loadPage(-1)'>上一页</a></li>
+    <li><a href="#">第{{currentPage}}/{{pages.length}}页</a></li>
+    <li><a href="#" ng-click = 'loadPage(1)'>下一页</a></li>
+  </ul>
+
+<!-- <div class="pagination">
+  <ul ng-repeat="page in pages">
+    <li><a href='#' ng-click='loadPage(page.start)'>{{page.pageNumber}}</a> </li>
+  </ul>
+</div> -->      		
+		        	
+            <div><!-- row-fluid END-->
+		        </div><!-- span9 END-->
+		</div><!-- row-fluid END-->
+
+    </div><!--container-fluid END -->
+
+
+      <hr>
+
+      <footer>
+        <p>悟空网络 &copy; Company 2013</p>
+      </footer>
+
+    </div><!--/.fluid-container-->
+ 
+    <!-- Modal addSendPlan_btn注释掉了  这里也注释-->
+<!--
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">添加下发计划</h3>
+  </div>
+  <div class="modal-body">
+
+<from class="form-horizontal" ng-submit="addSendPlan()">
+  <div class="control-group" ng-class="{error: myForm.name.$invalid}">
+    <label class="control-label">用户属性：</label>
+    <div class="controls">
+        <label class="checkbox" >
+            <input type="checkbox" ng-model="userType['Android']">Android
+        </label>
+        <label class="checkbox" >
+            <input type="checkbox" ng-model="userType['Iphone']">Iphone
+        </label>
+        <label class="checkbox">
+            <input type="checkbox" ng-model="userType['Nokia']">Nokia
+        </label>
+        <label class="checkbox">
+            <input type="checkbox" ng-model="userType['活跃']">活跃
+        </label>
+        <label class="checkbox">
+            <input type="checkbox" ng-model="userType['沉默']">沉默
+        </label>
+        <label class="checkbox">
+            <input type="checkbox" ng-model="userType['非活跃']">非活跃
+        </label>
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="inputPassword">标题：</label>
+    <div class="controls">
+      <input ng-model="tHeader" type="text" id="inputPassword" placeholder="请键入标题....">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="inputPassword">URL：</label>
+    <div class="controls">
+      <input ng-model="tURL" type="text" id="inputPassword" placeholder="请键入URL....">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label">下发日期：</label>
+    <div class="controls">
+      <input ng-model="tDateTime" type="text" id="datepicker">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="inputEmail">优先级：</label>
+    <div class="controls">
+      <select ng-model="tPriv">
+  		  <option>市分优先</option>
+  		  <option>省分优先</option>
+  		  <option>同步排重</option>		  		  		  
+		</select>
+    </div>
+  </div>							  							  							  
+  <div class="control-group">
+    <div class="controls">
+      <input type="submit" class="btn btn-primary" ng-click="addSendPlan()" ng-disabled="myForm.$invalid"></input>
+    </div>
+  </div>
+
+</form>
+  </div>
+</div> -->   <!--End of Modal--> 
+</div><!-- End of ng controller end-->
+    <a id="scrollUp" href="#top" title="" style="position: fixed; z-index: 2147483647; display: block;"></a>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46162338-1', 'wukong.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>

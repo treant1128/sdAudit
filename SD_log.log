@@ -1,0 +1,4662 @@
+start=22 ,offset=10
+start=12 ,offset=10
+start=2 ,offset=10
+start=5 ,offset=20
+start=5 ,offset=20
+start=6 ,offset=20
+start=5 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[790]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类】惊爆：爱哭的人寿命长！如何“哭”出健康来？","tURL":"http://baid.us/n5Sq","tDateTime":"11/20/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"790"};
+数据库操作日志: users['nxt'].taskLists.push(790);
+数据库操作日志: users['admin'].taskLists.push(790);
+数据库操作日志: users['zhoumj'].taskLists.push(790);
+数据库操作日志: users['zhaobin'].taskLists.push(790);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=7 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[791]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】“6大吻”损害宝宝健康，妈妈肠胃不好别吻孩子！","tURL":"http://baid.us/n5Sj","tDateTime":"11/20/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"791"};
+数据库操作日志: users['nxt'].taskLists.push(791);
+数据库操作日志: users['admin'].taskLists.push(791);
+数据库操作日志: users['zhoumj'].taskLists.push(791);
+数据库操作日志: users['zhaobin'].taskLists.push(791);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=8 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[792]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】什么菜不能加味精？吃味精有5大禁忌！","tURL":"http://baid.us/n5St","tDateTime":"11/20/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"792"};
+数据库操作日志: users['nxt'].taskLists.push(792);
+数据库操作日志: users['admin'].taskLists.push(792);
+数据库操作日志: users['zhoumj'].taskLists.push(792);
+数据库操作日志: users['zhaobin'].taskLists.push(792);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+start=9 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[793]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"信用卡欠款6年没还 9百涨到1万9","tURL":"http://3g.dzwww.com/m/article/123336","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"793"};
+数据库操作日志: users['dzrb'].taskLists.push(793);
+数据库操作日志: users['admin'].taskLists.push(793);
+数据库操作日志: users['zhoumj'].taskLists.push(793);
+数据库操作日志: users['zhaobin'].taskLists.push(793);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=6 ,offset=20
+start=6 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[794]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"大神求P！那些小米新玩具被PS的神图","tURL":"http://3g.dzwww.com/m/article/123335","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"794"};
+数据库操作日志: users['dzrb'].taskLists.push(794);
+数据库操作日志: users['admin'].taskLists.push(794);
+数据库操作日志: users['zhoumj'].taskLists.push(794);
+数据库操作日志: users['zhaobin'].taskLists.push(794);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=11 ,offset=20
+start=7 ,offset=20
+start=7 ,offset=20
+start=27 ,offset=10
+start=7 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[795]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"鱼刺卡喉猛吞饭，竟扎破心脏动脉，医生提醒\"土办法\"有危险。","tURL":"http://allook.cn/wapts/jsp/tvDemand/tvDemand_Details.jsp?tvDemand_videoId=2019565","tDateTime":"11/20/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"795"};
+数据库操作日志: users['sjt'].taskLists.push(795);
+数据库操作日志: users['admin'].taskLists.push(795);
+数据库操作日志: users['zhoumj'].taskLists.push(795);
+数据库操作日志: users['zhaobin'].taskLists.push(795);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=717 ,offset=50
+users.json saved
+tasks.json saved
+start=7 ,offset=20
+users.json saved
+tasks.json saved
+start=12 ,offset=20
+start=7 ,offset=20
+start=7 ,offset=20
+users.json saved
+tasks.json saved
+start=7 ,offset=20
+start=7 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[796]={"userType":{"iPhone_3G":false,"android_3G":false,"非活跃_3G":true,"活跃_3G":false,"沉默_2G":false,"iPhone_2G":false,"沉默_3G":true,"活跃_2G":false,"android_2G":false,"非活跃_2G":false},"tHeader":"奇景！武汉一条马路两边法桐呈“春秋两景” ","tURL":"http://politics.people.com.cn/n/2013/1120/c70731-23598634.html  ","tDateTime":"11-20-2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"淄博","tOperator":"zibocc","_id":"796"};
+数据库操作日志: users['zibocc'].taskLists.push(796);
+数据库操作日志: users['admin'].taskLists.push(796);
+数据库操作日志: users['zhoumj'].taskLists.push(796);
+数据库操作日志: users['zhaobin'].taskLists.push(796);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=718 ,offset=50
+{ originId: '796',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[796].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '787',
+  statu: { audit: 'error', icon: 'icon-remove' } }
+数据库操作日志: tasks[787].statu={"audit":"error","icon":"icon-remove"};
+The "data to append" was appended to file!
+{ originId: '784',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[784].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '777',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[777].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '776',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[776].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+start=718 ,offset=50
+start=28 ,offset=10
+users.json saved
+tasks.json saved
+start=7 ,offset=20
+users.json saved
+tasks.json saved
+start=28 ,offset=10
+start=9 ,offset=20
+start=9 ,offset=20
+users.json saved
+tasks.json saved
+start=718 ,offset=50
+users.json saved
+tasks.json saved
+start=7 ,offset=20
+users.json saved
+tasks.json saved
+start=718 ,offset=50
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=133 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[797]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"潍坊市民四天时间开发出公共自行车查询APP","tURL":"http://weifang.dzwww.com/wfxwn/201311/t20131119_9214828.htm","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"潍坊","tOperator":"weifangcc","_id":"797"};
+数据库操作日志: users['weifangcc'].taskLists.push(797);
+数据库操作日志: users['admin'].taskLists.push(797);
+数据库操作日志: users['zhoumj'].taskLists.push(797);
+数据库操作日志: users['zhaobin'].taskLists.push(797);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+数据库操作日志: uuid++;
+数据库操作日志: tasks[798]={"userType":{"iPhone_3G":true,"android_3G":true,"非活跃_3G":true,"活跃_3G":true,"沉默_2G":false,"iPhone_2G":false,"沉默_3G":true,"活跃_2G":false,"android_2G":false,"非活跃_2G":false},"tHeader":"山东“单独二胎”政策落地前不能“抢生” ","tURL":"http://www.dzwww.com/shandong/sdnews/201311/t20131119_9215014.htm  ","tDateTime":"11-21-2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"淄博","tOperator":"zibocc","_id":"798"};
+数据库操作日志: users['zibocc'].taskLists.push(798);
+数据库操作日志: users['admin'].taskLists.push(798);
+数据库操作日志: users['zhoumj'].taskLists.push(798);
+数据库操作日志: users['zhaobin'].taskLists.push(798);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=9 ,offset=20
+start=9 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[799]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】1根炭烤羊肉串=50根香烟！你还hold住么？","tURL":"http://baid.us/n6tq","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"799"};
+数据库操作日志: users['nxt'].taskLists.push(799);
+数据库操作日志: users['admin'].taskLists.push(799);
+数据库操作日志: users['zhoumj'].taskLists.push(799);
+数据库操作日志: users['zhaobin'].taskLists.push(799);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[800]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】小心：4种错误的吃鱼方法会致命，活杀现吃残留毒素危害身体！","tURL":"http://baid.us/n6sG","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"800"};
+数据库操作日志: users['nxt'].taskLists.push(800);
+数据库操作日志: users['admin'].taskLists.push(800);
+数据库操作日志: users['zhoumj'].taskLists.push(800);
+数据库操作日志: users['zhaobin'].taskLists.push(800);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[801]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】女人气味能治男人病？揭秘宇航员为何要有女性。","tURL":"http://baid.us/n6sM","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"801"};
+数据库操作日志: users['nxt'].taskLists.push(801);
+数据库操作日志: users['admin'].taskLists.push(801);
+数据库操作日志: users['zhoumj'].taskLists.push(801);
+数据库操作日志: users['zhaobin'].taskLists.push(801);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=12 ,offset=20
+tasks.json saved
+users.json saved
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+start=54 ,offset=20
+tasks.json saved
+users.json saved
+start=50 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[803]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"2013年泰安宁阳县事业单位公开招聘简章","tURL":"http://news.tainfo.net/jinritaian/2013-11-21/95060.php","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"泰安","tOperator":"taiancc","tComment":"泰安本地焦点新闻推送","_id":"803"};
+数据库操作日志: users['taiancc'].taskLists.push(803);
+数据库操作日志: users['admin'].taskLists.push(803);
+数据库操作日志: users['zhoumj'].taskLists.push(803);
+数据库操作日志: users['zhaobin'].taskLists.push(803);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=51 ,offset=20
+start=7 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[804]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"【爱吐槽】要没小米3，我早被冻死了！","tURL":"http://3g.dzwww.com/m/article/123510","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"804"};
+数据库操作日志: users['dzrb'].taskLists.push(804);
+数据库操作日志: users['admin'].taskLists.push(804);
+数据库操作日志: users['zhoumj'].taskLists.push(804);
+数据库操作日志: users['zhaobin'].taskLists.push(804);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+数据库操作日志: uuid++;
+数据库操作日志: tasks[805]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"山东省117家单位同赴清华揽才 5000余学生参加","tURL":"http://www.dzwww.com/shandong/sdnews/201311/t20131121_9223661.htm","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"805"};
+数据库操作日志: users['liaochcc'].taskLists.push(805);
+数据库操作日志: users['admin'].taskLists.push(805);
+数据库操作日志: users['zhoumj'].taskLists.push(805);
+数据库操作日志: users['zhaobin'].taskLists.push(805);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[806]={"userType":{"3G-iPhone":false,"2G-iPhone":true,"3G-Android":false,"2G-Android":true,"3G-活跃":false,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":true,"地市提供号码包":false},"tHeader":"山东省117家单位同赴清华揽才 5000余学生参加","tURL":"http://www.dzwww.com/shandong/sdnews/201311/t20131121_9223661.htm","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"806"};
+数据库操作日志: users['liaochcc'].taskLists.push(806);
+数据库操作日志: users['admin'].taskLists.push(806);
+数据库操作日志: users['zhoumj'].taskLists.push(806);
+数据库操作日志: users['zhaobin'].taskLists.push(806);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=51 ,offset=20
+start=12 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[807]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"细数娱乐圈的“极品”前任，马雅舒、董洁、张馨予上榜！","tURL":"http://allook.cn/wapts/jsp/internationVideo/internationVideo_Details.jsp?tvDemand_videoId=2022306","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"807"};
+数据库操作日志: users['sjt'].taskLists.push(807);
+数据库操作日志: users['admin'].taskLists.push(807);
+数据库操作日志: users['zhoumj'].taskLists.push(807);
+数据库操作日志: users['zhaobin'].taskLists.push(807);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=51 ,offset=20
+tasks.json saved
+users.json saved
+start=728 ,offset=50
+start=678 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=8 ,offset=20
+start=13 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=33 ,offset=10
+start=23 ,offset=10
+start=13 ,offset=10
+start=3 ,offset=10
+start=13 ,offset=10
+start=23 ,offset=10
+start=33 ,offset=10
+start=23 ,offset=10
+start=33 ,offset=10
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[808]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"《爸爸去哪儿》改版“互换爸爸”，王诗龄将牵手张亮。","tURL":"http://allook.cn/wapts/jsp/tvDemand/tvDemand_Details.jsp?tvDemand_videoId=2026513 yumpad","tDateTime":"11/21/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"808"};
+数据库操作日志: users['sjt'].taskLists.push(808);
+数据库操作日志: users['admin'].taskLists.push(808);
+数据库操作日志: users['zhoumj'].taskLists.push(808);
+数据库操作日志: users['zhaobin'].taskLists.push(808);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+{ originId: '793',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[793].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '801',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[801].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+start=729 ,offset=50
+{ originId: '797',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[797].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '785',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[785].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '786',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[786].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+{ originId: '798',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[798].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '803',
+  statu: { audit: 'error', icon: 'icon-remove' } }
+数据库操作日志: tasks[803].statu={"audit":"error","icon":"icon-remove"};
+The "data to append" was appended to file!
+start=729 ,offset=50
+users.json saved
+tasks.json saved
+start=729 ,offset=50
+users.json saved
+tasks.json saved
+start=12 ,offset=20
+start=12 ,offset=20
+start=729 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=8 ,offset=20
+start=8 ,offset=20
+start=8 ,offset=20
+start=14 ,offset=20
+start=14 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=134 ,offset=20
+users.json saved
+tasks.json saved
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[809]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"潍坊昌乐身份证照片自助拍摄 \"我的头像我做主\"","tURL":"http://weifang.dzwww.com/wfxwn/201311/t20131121_9225231.htm","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"潍坊","tOperator":"weifangcc","_id":"809"};
+数据库操作日志: users['weifangcc'].taskLists.push(809);
+数据库操作日志: users['admin'].taskLists.push(809);
+数据库操作日志: users['zhoumj'].taskLists.push(809);
+数据库操作日志: users['zhaobin'].taskLists.push(809);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=14 ,offset=20
+start=14 ,offset=20
+users.json saved
+tasks.json saved
+数据库操作日志: uuid++;
+数据库操作日志: tasks[810]={"userType":{"iPhone_3G":true,"android_3G":true,"非活跃_3G":true,"活跃_3G":true,"沉默_2G":false,"iPhone_2G":false,"沉默_3G":true,"活跃_2G":false,"android_2G":false,"非活跃_2G":false},"tHeader":"2014高考报名信息开始确认 淄博招办具体安排","tURL":"http://zibo.sdnews.com.cn/xwzx/201311/t20131121_1430913.html ","tDateTime":"11-22-2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"淄博","tOperator":"zibocc","_id":"810"};
+数据库操作日志: users['zibocc'].taskLists.push(810);
+数据库操作日志: users['admin'].taskLists.push(810);
+数据库操作日志: users['zhoumj'].taskLists.push(810);
+数据库操作日志: users['zhaobin'].taskLists.push(810);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=12 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[811]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】青西红柿、无根豆芽、鲜黄花菜，13种食物比砒霜还毒！","tURL":"http://baid.us/n7gg","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"811"};
+数据库操作日志: users['nxt'].taskLists.push(811);
+数据库操作日志: users['admin'].taskLists.push(811);
+数据库操作日志: users['zhoumj'].taskLists.push(811);
+数据库操作日志: users['zhaobin'].taskLists.push(811);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[812]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】一个喷嚏约含30万细菌，忍着不打等于吞细菌！详解小小喷嚏的大危害！","tURL":"http://baid.us/n7gb","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"812"};
+数据库操作日志: users['nxt'].taskLists.push(812);
+数据库操作日志: users['admin'].taskLists.push(812);
+数据库操作日志: users['zhoumj'].taskLists.push(812);
+数据库操作日志: users['zhaobin'].taskLists.push(812);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[813]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】王菲暗探谢霆锋，张柏芝明恋老外，盘点各路明星新欢旧爱！","tURL":"http://baid.us/n7gK","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"813"};
+数据库操作日志: users['nxt'].taskLists.push(813);
+数据库操作日志: users['admin'].taskLists.push(813);
+数据库操作日志: users['zhoumj'].taskLists.push(813);
+数据库操作日志: users['zhaobin'].taskLists.push(813);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=15 ,offset=20
+start=15 ,offset=20
+start=8 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[814]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"女孩为省房租北京胡同房顶搭蒙古包住1年","tURL":"http://3g.dzwww.com/m/article/123686","tDateTime":"11/23/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"814"};
+数据库操作日志: users['dzrb'].taskLists.push(814);
+数据库操作日志: users['admin'].taskLists.push(814);
+数据库操作日志: users['zhoumj'].taskLists.push(814);
+数据库操作日志: users['zhaobin'].taskLists.push(814);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=51 ,offset=20
+start=735 ,offset=50
+start=51 ,offset=20
+users.json saved
+tasks.json saved
+start=51 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[815]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"2013年泰安宁阳县事业单位公开招聘简章：","tURL":"http://news.tainfo.net/jinritaian/2013-11-21/95060.php","tDateTime":"11/22/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"泰安","tOperator":"taiancc","tComment":"","_id":"815"};
+数据库操作日志: users['taiancc'].taskLists.push(815);
+数据库操作日志: users['admin'].taskLists.push(815);
+数据库操作日志: users['zhoumj'].taskLists.push(815);
+数据库操作日志: users['zhaobin'].taskLists.push(815);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=736 ,offset=50
+start=38 ,offset=10
+start=736 ,offset=50
+start=33 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+start=9 ,offset=20
+start=56 ,offset=20
+tasks.json saved
+users.json saved
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[816]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"刘德华否认“退休”：只要大家喜欢我会继续搏命","tURL":"http://www.chinanews.com/yl/2013/11-22/5535112.shtml","tDateTime":"11/23/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"816"};
+数据库操作日志: users['liaochcc'].taskLists.push(816);
+数据库操作日志: users['admin'].taskLists.push(816);
+数据库操作日志: users['zhoumj'].taskLists.push(816);
+数据库操作日志: users['zhaobin'].taskLists.push(816);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[817]={"userType":{"3G-iPhone":false,"2G-iPhone":true,"3G-Android":false,"2G-Android":true,"3G-活跃":false,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":true,"地市提供号码包":false},"tHeader":"刘德华否认“退休”：只要大家喜欢我会继续搏命","tURL":"http://www.chinanews.com/yl/2013/11-22/5535112.shtml","tDateTime":"11/23/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"817"};
+数据库操作日志: users['liaochcc'].taskLists.push(817);
+数据库操作日志: users['admin'].taskLists.push(817);
+数据库操作日志: users['zhoumj'].taskLists.push(817);
+数据库操作日志: users['zhaobin'].taskLists.push(817);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=738 ,offset=50
+{ originId: '815',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[815].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+start=52 ,offset=20
+users.json saved
+tasks.json saved
+start=738 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+start=738 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=738 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=15 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[818]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】立即小便易引发头晕昏厥，早晨４个习惯减寿20岁！","tURL":"http://baid.us/n7WY","tDateTime":"11/23/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"818"};
+数据库操作日志: users['nxt'].taskLists.push(818);
+数据库操作日志: users['admin'].taskLists.push(818);
+数据库操作日志: users['zhoumj'].taskLists.push(818);
+数据库操作日志: users['zhaobin'].taskLists.push(818);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[819]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】肿瘤标志物高是癌症？早癌筛查别陷入三大误区！","tURL":"http://baid.us/n7Sz","tDateTime":"11/23/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"819"};
+数据库操作日志: users['nxt'].taskLists.push(819);
+数据库操作日志: users['admin'].taskLists.push(819);
+数据库操作日志: users['zhoumj'].taskLists.push(819);
+数据库操作日志: users['zhaobin'].taskLists.push(819);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[820]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】杨幂出嫁，周迅要努力啦！盘点70、80花旦爱情大不同！","tURL":"http://baid.us/n7Sv","tDateTime":"11/23/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"820"};
+数据库操作日志: users['nxt'].taskLists.push(820);
+数据库操作日志: users['admin'].taskLists.push(820);
+数据库操作日志: users['zhoumj'].taskLists.push(820);
+数据库操作日志: users['zhaobin'].taskLists.push(820);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=741 ,offset=50
+{ originId: '817',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[817].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '816',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[816].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+start=691 ,offset=50
+{ originId: '763',
+  statu: { audit: 'error', icon: 'icon-remove' } }
+数据库操作日志: tasks[763].statu={"audit":"error","icon":"icon-remove"};
+The "data to append" was appended to file!
+{ originId: '764',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[764].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=741 ,offset=50
+start=741 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=741 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=18 ,offset=20
+start=18 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[821]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】第50届金马奖落幕，章子怡李康生封帝封后！","tURL":"http://baid.us/n9fX","tDateTime":"11/24/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"821"};
+数据库操作日志: users['nxt'].taskLists.push(821);
+数据库操作日志: users['admin'].taskLists.push(821);
+数据库操作日志: users['zhoumj'].taskLists.push(821);
+数据库操作日志: users['zhaobin'].taskLists.push(821);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[822]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】浓茶咖啡可醒酒？揭喝酒十大谎言！","tURL":"http://baid.us/n9gn","tDateTime":"11/24/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"822"};
+数据库操作日志: users['nxt'].taskLists.push(822);
+数据库操作日志: users['admin'].taskLists.push(822);
+数据库操作日志: users['zhoumj'].taskLists.push(822);
+数据库操作日志: users['zhaobin'].taskLists.push(822);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=20 ,offset=20
+start=20 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=743 ,offset=50
+users.json saved
+tasks.json saved
+{ originId: '810',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[810].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+{ originId: '809',
+  statu: { audit: 'success', icon: 'icon-ok' } }
+数据库操作日志: tasks[809].statu={"audit":"success","icon":"icon-ok"};
+The "data to append" was appended to file!
+start=693 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=135 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[823]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"潍坊归真园首次大\"美容\" 主要整修园内建筑","tURL":"http://weifang.dzwww.com/wfxwn/201311/t20131123_9237069.htm","tDateTime":"11/25/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"潍坊","tOperator":"weifangcc","_id":"823"};
+数据库操作日志: users['weifangcc'].taskLists.push(823);
+数据库操作日志: users['admin'].taskLists.push(823);
+数据库操作日志: users['zhoumj'].taskLists.push(823);
+数据库操作日志: users['zhaobin'].taskLists.push(823);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=58 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[824]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"山东聊城：外教和留学生学舞龙（6张","tURL":"http://www.cnsphoto.com/NewsPhoto/ShowNewsDetail.asp?Id=1012375&Flag=WN","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"824"};
+数据库操作日志: users['liaochcc'].taskLists.push(824);
+数据库操作日志: users['admin'].taskLists.push(824);
+数据库操作日志: users['zhoumj'].taskLists.push(824);
+数据库操作日志: users['zhaobin'].taskLists.push(824);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[825]={"userType":{"3G-iPhone":false,"2G-iPhone":true,"3G-Android":false,"2G-Android":true,"3G-活跃":false,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":true,"地市提供号码包":false},"tHeader":"山东聊城：外教和留学生学舞龙（6张）","tURL":"http://www.cnsphoto.com/NewsPhoto/ShowNewsDetail.asp?Id=1012375&Flag=WN","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"825"};
+数据库操作日志: users['liaochcc'].taskLists.push(825);
+数据库操作日志: users['admin'].taskLists.push(825);
+数据库操作日志: users['zhoumj'].taskLists.push(825);
+数据库操作日志: users['zhaobin'].taskLists.push(825);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+start=9 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[826]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"林志颖欲定制“黑米手机” 雷军接单","tURL":"http://3g.dzwww.com/m/article/124119","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"826"};
+数据库操作日志: users['dzrb'].taskLists.push(826);
+数据库操作日志: users['admin'].taskLists.push(826);
+数据库操作日志: users['zhoumj'].taskLists.push(826);
+数据库操作日志: users['zhaobin'].taskLists.push(826);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=14 ,offset=20
+start=14 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[828]={"userType":{"iPhone_3G":true,"android_3G":true,"非活跃_3G":true,"活跃_3G":true,"沉默_2G":false,"iPhone_2G":false,"沉默_3G":true,"活跃_2G":false,"android_2G":false,"非活跃_2G":false},"tHeader":"山东医改:3100多家基层医疗机构先诊疗后付费 ","tURL":"http://www.sd.xinhuanet.com/news/2013-11/25/c_118272183.htm  ","tDateTime":"11-25-2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"淄博","tOperator":"zibocc","_id":"828"};
+数据库操作日志: users['zibocc'].taskLists.push(828);
+数据库操作日志: users['admin'].taskLists.push(828);
+数据库操作日志: users['zhoumj'].taskLists.push(828);
+数据库操作日志: users['zhaobin'].taskLists.push(828);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[829]={"userType":{"iPhone_3G":true,"android_3G":true,"非活跃_3G":true,"活跃_3G":true,"沉默_2G":false,"iPhone_2G":false,"沉默_3G":true,"活跃_2G":false,"android_2G":false,"非活跃_2G":false},"tHeader":"山东医改:3100多家基层医疗机构先诊疗后付费 ","tURL":"http://www.sd.xinhuanet.com/news/2013-11/25/c_118272183.htm  ","tDateTime":"11-25-2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"淄博","tOperator":"zibocc","_id":"829"};
+数据库操作日志: users['zibocc'].taskLists.push(829);
+数据库操作日志: users['admin'].taskLists.push(829);
+数据库操作日志: users['zhoumj'].taskLists.push(829);
+数据库操作日志: users['zhaobin'].taskLists.push(829);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+start=20 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[830]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】不吃早餐爱油炸，早起赖床不排尿，揭秘最伤肝脏的9个杀手！","tURL":"http://baid.us/nAjs","tDateTime":"11/25/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"830"};
+数据库操作日志: users['nxt'].taskLists.push(830);
+数据库操作日志: users['admin'].taskLists.push(830);
+数据库操作日志: users['zhoumj'].taskLists.push(830);
+数据库操作日志: users['zhaobin'].taskLists.push(830);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[831]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】杜海涛下跪事件续：疑似小号回骂网友“九年义务教育没上完”","tURL":"http://baid.us/nAjS","tDateTime":"11/25/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"831"};
+数据库操作日志: users['nxt'].taskLists.push(831);
+数据库操作日志: users['admin'].taskLists.push(831);
+数据库操作日志: users['zhoumj'].taskLists.push(831);
+数据库操作日志: users['zhaobin'].taskLists.push(831);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=22 ,offset=20
+start=22 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=10 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[832]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":true},"tHeader":"还记得前两天那个冒充假军人营救同伙被警方识破的案子吗？现场视频来了，警察蜀黍表示已经快被笑死了……","tURL":"http://3g.dzwww.com/m/article/124133","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"832"};
+数据库操作日志: users['dzrb'].taskLists.push(832);
+数据库操作日志: users['admin'].taskLists.push(832);
+数据库操作日志: users['zhoumj'].taskLists.push(832);
+数据库操作日志: users['zhaobin'].taskLists.push(832);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=11 ,offset=20
+users.json saved
+tasks.json saved
+start=11 ,offset=20
+tasks.json saved
+users.json saved
+start=11 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=136 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[833]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"潍坊向阳路客运站增设售票候车大厅 流动发车","tURL":"http://weifang.dzwww.com/wfxwn/201311/t20131125_9242271.htm","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"潍坊","tOperator":"weifangcc","_id":"833"};
+数据库操作日志: users['weifangcc'].taskLists.push(833);
+数据库操作日志: users['admin'].taskLists.push(833);
+数据库操作日志: users['zhoumj'].taskLists.push(833);
+数据库操作日志: users['zhaobin'].taskLists.push(833);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=60 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[834]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"揭秘娱圈现实版\"继承者\"","tURL":"http://news.xinhuanet.com/finance/2013-11/26/c_125759646.htm","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"834"};
+数据库操作日志: users['liaochcc'].taskLists.push(834);
+数据库操作日志: users['admin'].taskLists.push(834);
+数据库操作日志: users['zhoumj'].taskLists.push(834);
+数据库操作日志: users['zhaobin'].taskLists.push(834);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[835]={"userType":{"3G-iPhone":false,"2G-iPhone":true,"3G-Android":false,"2G-Android":true,"3G-活跃":false,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":true,"地市提供号码包":false},"tHeader":"揭秘娱圈现实版\"继承者\"","tURL":"http://news.xinhuanet.com/finance/2013-11/26/c_125759646.htm","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"835"};
+数据库操作日志: users['liaochcc'].taskLists.push(835);
+数据库操作日志: users['admin'].taskLists.push(835);
+数据库操作日志: users['zhoumj'].taskLists.push(835);
+数据库操作日志: users['zhaobin'].taskLists.push(835);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=22 ,offset=20
+start=22 ,offset=20
+start=22 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[836]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】濒临死亡者亲身讲述，死前一秒十种神秘感觉！","tURL":"http://baid.us/nBEh","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"836"};
+数据库操作日志: users['nxt'].taskLists.push(836);
+数据库操作日志: users['admin'].taskLists.push(836);
+数据库操作日志: users['zhoumj'].taskLists.push(836);
+数据库操作日志: users['zhaobin'].taskLists.push(836);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[837]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】晚餐吃姜等于吃砒霜，六种食物变身致命毒药！","tURL":"http://baid.us/nBEb","tDateTime":"11/26/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"837"};
+数据库操作日志: users['nxt'].taskLists.push(837);
+数据库操作日志: users['admin'].taskLists.push(837);
+数据库操作日志: users['zhoumj'].taskLists.push(837);
+数据库操作日志: users['zhaobin'].taskLists.push(837);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=49 ,offset=10
+start=757 ,offset=50
+start=707 ,offset=50
+start=657 ,offset=50
+start=707 ,offset=50
+start=657 ,offset=50
+start=607 ,offset=50
+start=657 ,offset=50
+start=707 ,offset=50
+start=757 ,offset=50
+users.json saved
+tasks.json saved
+start=11 ,offset=20
+start=11 ,offset=20
+users.json saved
+tasks.json saved
+start=11 ,offset=20
+users.json saved
+tasks.json saved
+start=14 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=33 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[838]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"【沃阅读】联通免流量读书逆袭，三千本免费图书，杂志、文学、教育、小说……，还有戴上耳机就能满足阅读的“听书”功能哦。点击进入屏幕最下方下载客户端开启心境之旅吧！","tURL":"http://iread.wo.com.cn","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"滨州","tOperator":"binzhoucc","tComment":"滨州15615430628","_id":"838"};
+数据库操作日志: users['binzhoucc'].taskLists.push(838);
+数据库操作日志: users['admin'].taskLists.push(838);
+数据库操作日志: users['zhoumj'].taskLists.push(838);
+数据库操作日志: users['zhaobin'].taskLists.push(838);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=137 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[839]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"潍坊四县区公布2013年\"三公\"经费明细(图)","tURL":"http://weifang.dzwww.com/wfxwn/201311/t20131126_9249123.htm","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"潍坊","tOperator":"weifangcc","_id":"839"};
+数据库操作日志: users['weifangcc'].taskLists.push(839);
+数据库操作日志: users['admin'].taskLists.push(839);
+数据库操作日志: users['zhoumj'].taskLists.push(839);
+数据库操作日志: users['zhaobin'].taskLists.push(839);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=62 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[840]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"岁月是把杀猪刀 明星年轻时的照片很惊人","tURL":"http://culture.gmw.cn/2013-11/27/content_9614163.htm","tDateTime":"11/28/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"840"};
+数据库操作日志: users['liaochcc'].taskLists.push(840);
+数据库操作日志: users['admin'].taskLists.push(840);
+数据库操作日志: users['zhoumj'].taskLists.push(840);
+数据库操作日志: users['zhaobin'].taskLists.push(840);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[841]={"userType":{"3G-iPhone":false,"2G-iPhone":true,"3G-Android":false,"2G-Android":true,"3G-活跃":false,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":true,"地市提供号码包":false},"tHeader":"岁月是把杀猪刀 明星年轻时的照片很惊人","tURL":"http://culture.gmw.cn/2013-11/27/content_9614163.htm","tDateTime":"11/28/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"841"};
+数据库操作日志: users['liaochcc'].taskLists.push(841);
+数据库操作日志: users['admin'].taskLists.push(841);
+数据库操作日志: users['zhoumj'].taskLists.push(841);
+数据库操作日志: users['zhaobin'].taskLists.push(841);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=11 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[842]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"2014怎么放假？三种方案详细排班表来了！","tURL":"http://3g.dzwww.com/m/article/124369","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"842"};
+数据库操作日志: users['dzrb'].taskLists.push(842);
+数据库操作日志: users['admin'].taskLists.push(842);
+数据库操作日志: users['zhoumj'].taskLists.push(842);
+数据库操作日志: users['zhaobin'].taskLists.push(842);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=14 ,offset=20
+users.json saved
+tasks.json saved
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[844]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"冬季雾霾危害大，专家支招哪些方法防雾霾最有效。","tURL":"http://allook.cn/wapts/jsp/tvDemand/tvDemand_Details.jsp?tvDemand_videoId=2033609","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"844"};
+数据库操作日志: users['sjt'].taskLists.push(844);
+数据库操作日志: users['admin'].taskLists.push(844);
+数据库操作日志: users['zhoumj'].taskLists.push(844);
+数据库操作日志: users['zhaobin'].taskLists.push(844);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+start=24 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[845]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】王力宏微博公布恋情：27岁女学生，爸爸妈妈都很喜欢她。","tURL":"http://baid.us/nCsy","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"845"};
+数据库操作日志: users['nxt'].taskLists.push(845);
+数据库操作日志: users['admin'].taskLists.push(845);
+数据库操作日志: users['zhoumj'].taskLists.push(845);
+数据库操作日志: users['zhaobin'].taskLists.push(845);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[847]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】看你有没有炼成“朱砂掌”，手掌状况看出肝病程度！","tURL":"http://baid.us/nCsG","tDateTime":"11/27/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"847"};
+数据库操作日志: users['nxt'].taskLists.push(847);
+数据库操作日志: users['admin'].taskLists.push(847);
+数据库操作日志: users['zhoumj'].taskLists.push(847);
+数据库操作日志: users['zhaobin'].taskLists.push(847);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=12 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=15 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=64 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[848]={"userType":{"3G-iPhone":true,"2G-iPhone":false,"3G-Android":true,"2G-Android":false,"3G-活跃":true,"2G-活跃":false,"3G-非活跃":true,"2G-非活跃":false,"3G-沉默":true,"2G-沉默":false,"地市提供号码包":false},"tHeader":"聊城构建四位一体新型居民小区物业管理模式","tURL":"http://www.sd.xinhuanet.com/sd/lc/2013-11/27/c_118318481.htm","tDateTime":"11/29/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"848"};
+数据库操作日志: users['liaochcc'].taskLists.push(848);
+数据库操作日志: users['admin'].taskLists.push(848);
+数据库操作日志: users['zhoumj'].taskLists.push(848);
+数据库操作日志: users['zhaobin'].taskLists.push(848);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[849]={"userType":{"3G-iPhone":false,"2G-iPhone":true,"3G-Android":false,"2G-Android":true,"3G-活跃":false,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":true,"3G-沉默":false,"2G-沉默":true,"地市提供号码包":false},"tHeader":"聊城构建四位一体新型居民小区物业管理模式","tURL":"http://www.sd.xinhuanet.com/sd/lc/2013-11/27/c_118318481.htm","tDateTime":"11/29/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"聊城","tOperator":"liaochcc","_id":"849"};
+数据库操作日志: users['liaochcc'].taskLists.push(849);
+数据库操作日志: users['admin'].taskLists.push(849);
+数据库操作日志: users['zhoumj'].taskLists.push(849);
+数据库操作日志: users['zhaobin'].taskLists.push(849);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=15 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[850]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"力宏云迪同日公布恋情：女友均在哥伦比亚大学就读。","tURL":"http://allook.cn/wapts/jsp/internationVideo/internationVideo_Details.jsp?tvDemand_videoId=2052910","tDateTime":"11/28/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"850"};
+数据库操作日志: users['sjt'].taskLists.push(850);
+数据库操作日志: users['admin'].taskLists.push(850);
+数据库操作日志: users['zhoumj'].taskLists.push(850);
+数据库操作日志: users['zhaobin'].taskLists.push(850);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[851]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"孝心！硕士放弃国外高薪，回家陪母亲摆摊。","tURL":"http://allook.cn/wapts/jsp/tvDemand/tvDemand_Details.jsp?tvDemand_videoId=2043315","tDateTime":"11/28/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"851"};
+数据库操作日志: users['sjt'].taskLists.push(851);
+数据库操作日志: users['admin'].taskLists.push(851);
+数据库操作日志: users['zhoumj'].taskLists.push(851);
+数据库操作日志: users['zhaobin'].taskLists.push(851);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=17 ,offset=20
+start=17 ,offset=20
+start=17 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=12 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[852]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":true},"tHeader":"“爸爸们”的房产：田亮10套 不敌林志颖","tURL":"http://3g.dzwww.com/m/article/124720","tDateTime":"11/29/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"大众日报社","tOperator":"dzrb","_id":"852"};
+数据库操作日志: users['dzrb'].taskLists.push(852);
+数据库操作日志: users['admin'].taskLists.push(852);
+数据库操作日志: users['zhoumj'].taskLists.push(852);
+数据库操作日志: users['zhaobin'].taskLists.push(852);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=26 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[853]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】舍不得激吻套不住郎，盘点娱乐圈激吻上头条。","tURL":"http://www.dwz.cn/bNG2q","tDateTime":"11/28/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"853"};
+数据库操作日志: users['nxt'].taskLists.push(853);
+数据库操作日志: users['admin'].taskLists.push(853);
+数据库操作日志: users['zhoumj'].taskLists.push(853);
+数据库操作日志: users['zhaobin'].taskLists.push(853);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[854]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】高温泡澡=自杀！日本每年因洗澡不当致死1.4万人！","tURL":"http://baid.us/nDe5","tDateTime":"11/28/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"854"};
+数据库操作日志: users['nxt'].taskLists.push(854);
+数据库操作日志: users['admin'].taskLists.push(854);
+数据库操作日志: users['zhoumj'].taskLists.push(854);
+数据库操作日志: users['zhaobin'].taskLists.push(854);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=13 ,offset=20
+users.json saved
+tasks.json saved
+start=13 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=66 ,offset=20
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+TypeError: Cannot read property 'password' of undefined
+    at /home/node/audit_SD/server_SD.js:285:22
+    at callbacks (/home/node/audit_SD/node_modules/express/lib/router/index.js:161:37)
+    at param (/home/node/audit_SD/node_modules/express/lib/router/index.js:135:11)
+    at pass (/home/node/audit_SD/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/home/node/audit_SD/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/home/node/audit_SD/node_modules/express/lib/router/index.js:33:10)
+    at next (/home/node/audit_SD/node_modules/express/node_modules/connect/lib/proto.js:190:15)
+    at multipart (/home/node/audit_SD/node_modules/express/node_modules/connect/lib/middleware/multipart.js:60:27)
+    at /home/node/audit_SD/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js:57:9
+    at urlencoded (/home/node/audit_SD/node_modules/express/node_modules/connect/lib/middleware/urlencoded.js:48:27)
+start=17 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[855]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":false,"2G-非活跃":false,"3G-沉默":false,"2G-沉默":false,"地市提供号码包":false},"tHeader":"山东省卫生厅发布预警 今冬谨防五类传染病","tURL":"http://allook.cn/wapts/jsp/tvDemand/tvDemand_Details.jsp?tvDemand_videoId=2051531","tDateTime":"11/29/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"山东手机台","tOperator":"sjt","_id":"855"};
+数据库操作日志: users['sjt'].taskLists.push(855);
+数据库操作日志: users['admin'].taskLists.push(855);
+数据库操作日志: users['zhoumj'].taskLists.push(855);
+数据库操作日志: users['zhaobin'].taskLists.push(855);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=18 ,offset=20
+users.json saved
+tasks.json saved
+start=28 ,offset=20
+start=13 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[856]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】感冒药的真相：感冒不是感冒药治好的！","tURL":"http://baid.us/nD7x","tDateTime":"11/29/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"856"};
+数据库操作日志: users['nxt'].taskLists.push(856);
+数据库操作日志: users['admin'].taskLists.push(856);
+数据库操作日志: users['zhoumj'].taskLists.push(856);
+数据库操作日志: users['zhaobin'].taskLists.push(856);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[858]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】谢霆锋美食节目当大厨，被调侃邀请王菲品尝！","tURL":"http://baid.us/nD75","tDateTime":"11/29/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"858"};
+数据库操作日志: users['nxt'].taskLists.push(858);
+数据库操作日志: users['admin'].taskLists.push(858);
+数据库操作日志: users['zhoumj'].taskLists.push(858);
+数据库操作日志: users['zhaobin'].taskLists.push(858);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+start=18 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=30 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[859]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】详解四种人少吃大枣；爱上火者吃枣如火上浇油。","tURL":"http://baid.us/nDV4","tDateTime":"11/30/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"859"};
+数据库操作日志: users['nxt'].taskLists.push(859);
+数据库操作日志: users['admin'].taskLists.push(859);
+数据库操作日志: users['zhoumj'].taskLists.push(859);
+数据库操作日志: users['zhaobin'].taskLists.push(859);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=13 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+start=31 ,offset=20
+users.json saved
+tasks.json saved
+start=31 ,offset=20
+start=31 ,offset=20
+start=11 ,offset=20
+start=31 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[860]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】令人意想不到求救信号，清晨头痛发作或脑肿瘤！","tURL":"http://baid.us/nER3","tDateTime":"12/02/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"860"};
+数据库操作日志: users['nxt'].taskLists.push(860);
+数据库操作日志: users['admin'].taskLists.push(860);
+数据库操作日志: users['zhoumj'].taskLists.push(860);
+数据库操作日志: users['zhaobin'].taskLists.push(860);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[861]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】汪峰出招曝新歌又撞大新闻，抢头条已遭5连败！","tURL":"http://baid.us/nERD","tDateTime":"12/02/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"861"};
+数据库操作日志: users['nxt'].taskLists.push(861);
+数据库操作日志: users['admin'].taskLists.push(861);
+数据库操作日志: users['zhoumj'].taskLists.push(861);
+数据库操作日志: users['zhaobin'].taskLists.push(861);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=66 ,offset=20
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=33 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[862]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-健康类：】H7N9病毒正在适应人类，或致全球流感疫情！","tURL":"http://baid.us/nF7X","tDateTime":"12/03/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"862"};
+数据库操作日志: users['nxt'].taskLists.push(862);
+数据库操作日志: users['admin'].taskLists.push(862);
+数据库操作日志: users['zhoumj'].taskLists.push(862);
+数据库操作日志: users['zhaobin'].taskLists.push(862);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=138 ,offset=20
+数据库操作日志: uuid++;
+The "data to append" was appended to file!
+数据库操作日志: tasks[863]={"userType":{"3G-iPhone":true,"2G-iPhone":true,"3G-Android":true,"2G-Android":true,"3G-活跃":true,"2G-活跃":true,"3G-非活跃":true,"2G-非活跃":true,"3G-沉默":true,"2G-沉默":true,"地市提供号码包":false},"tHeader":"【专题信息-娱乐类：】曝汪峰演唱会要求与章子怡住总统套，5万一夜！","tURL":"http://baid.us/nF8f","tDateTime":"12/03/2013","tPriv":"","statu":{"audit":"info","icon":"icon-info-sign"},"region":"农信通","tOperator":"nxt","_id":"863"};
+数据库操作日志: users['nxt'].taskLists.push(863);
+数据库操作日志: users['admin'].taskLists.push(863);
+数据库操作日志: users['zhoumj'].taskLists.push(863);
+数据库操作日志: users['zhaobin'].taskLists.push(863);
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+The "data to append" was appended to file!
+start=35 ,offset=20
+start=35 ,offset=20
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+start=780 ,offset=50
+tasks.json saved
+users.json saved
+error: Forever detected script was killed by signal: SIGKILL
+error: Forever restarting script for 1 time
+start=780 ,offset=50
+start=780 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+start=780 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+start=66 ,offset=10
+start=56 ,offset=10
+start=46 ,offset=10
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+start=780 ,offset=50
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+users.json saved
+tasks.json saved
+Listening Port 9527

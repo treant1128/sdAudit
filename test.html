@@ -1,0 +1,64 @@
+<html ng-app>
+<head>
+</head>
+
+<body>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="tasks.js"></script>
+    
+	<script type="text/javascript">
+			$(document).ready(function(){
+				var db = new CouchDB("test_suite_db", {"X-Couch-Full-Commit":"false"});
+
+				//增
+				// create a document and save it to the database
+				  var doc = {_id:"0",a:1,b:1};
+				  var result = db.save(doc);
+
+				  T(result.ok==true); // return object has an ok member with a value true
+				  T(result.id); // the _id of the document is set.
+				  T(result.rev); // the revision id of the document is set.
+
+				//查
+				// create a map function that selects all documents whose "a" member
+			  // has a value of 4, and then returns the document's b value.
+			  var mapFunction = function(doc){
+			    if (doc.a==4)
+			      emit(null, doc.b);
+			  };
+
+			  var results = db.query(mapFunction);
+
+			  // verify only one document found and the result value (doc.b).
+			  T(results.total_rows == 1 && results.rows[0].value == 16);
+
+			  //聚合
+			    var reduceFunction = function(keys, values){
+				    return sum(values);
+				  };
+
+				  results = db.query(mapFunction, reduceFunction);
+
+				  T(results.rows[0].value == 33);
+
+			});
+
+	</script>
+
+<!--使用TasksController-->
+<div ng-controller="TasksCtrl">
+
+
+<ul class="unstyled">
+        <li ng-repeat="task in tasks">
+					{{task}}
+        </li>
+</ul>
+
+</div>
+
+</body>
+</html>

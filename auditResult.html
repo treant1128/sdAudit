@@ -1,0 +1,307 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html ng-app="myApp">
+<head>
+<title>审核结果</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link type="text/css" href="css/custom-theme/jquery-ui-1.10.0.custom.css" rel="stylesheet" />
+<style type="text/css">
+
+body {
+padding-top: 60px;
+padding-bottom: 40px;
+}
+.sidebar-nav {
+padding: 9px 0;
+}
+
+@media (max-width: 980px) {
+/* Enable use of floated navbar text */
+.navbar-text.pull-right {
+  float: none;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+}
+
+#myModal{
+	width:800px;
+	height: 550px;
+	margin:0px 0px 0px -450px;
+}
+#myModal .modal-body{
+	max-height: 900px;
+}
+#addTaskFrame{
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 800px;
+	height: 700px;
+}
+</style>
+</head>
+
+<body>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.10.0.custom.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="tasks.js"></script>
+    
+<!--使用TasksController-->
+<div ng-controller="TasksCtrl">
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="#">悟空审核下发平台</a>
+          <div class="nav-collapse collapse">
+            <p class="navbar-text pull-right" style="margin-right:5px;">
+              <a href="#" class="navbar-link" ng-click="Logout()">退出</a>
+            </p>
+            <p class="navbar-text pull-right" style="margin-right:5px;">
+            欢迎您: <a href="#" class="navbar-link">{{region}} - {{user}}</a>
+            </p>
+            <ul class="nav">
+              <li class="active"><a href="#">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+    	<div class="row-fluid">
+
+<!-- Main content Stared-->
+<div class="span12">
+
+
+
+<div class="form-horizontal">
+   <legend>查询以及功能</legend>
+    	<div class="control-group">
+			<button id="addSendPlan_btn" class="btn btn-primary" data-toggle="modal" data-target="#myModal">添加下发计划</button>
+		</div>
+</div>
+
+<!--
+分公司、用户属性、标题、URL、短URL、下发日期、优先级、提交人、提交人联系方式、审核结果
+-->
+
+<div class="row-fluid">
+<input type="text" ng-model="search" class="search-query" placeholder="搜索....">
+
+<ul class="pager">
+  <li><a href="" ng-click = 'loadPage(-1)'>上一页</a></li>
+  <li><a href="">第{{currentPage}}/{{pages.length}}页</a></li>
+  <li><a href="" ng-click = 'loadPage(1)'>下一页</a></li>
+<ul>
+<table class="table table-striped" >
+	<thead>
+    <th>状态</th>
+    <th>备注</th>
+		<th>分公司</th>
+		<th>属性</th>
+		<th>标题</th>
+		<th>URL</th>
+		<th>下发日期</th>
+		<th>优先级</th>
+		<th>提交人</th>
+		<th>操作</th>
+	</thead>
+	<tbody>
+		<tr ng-repeat="task in tasks | filter:search | orderBy:'tDateTime':true" class="{{task.statu.audit}}">
+      <td><i class="{{task.statu.icon}}"></i></td>
+      <td>{{task.tComment}}</td>
+			<td>{{task.region}}</td>
+			<td>
+        <span ng-repeat="key in task.userType | weDontLike:'Adam' ">
+          {{
+              key
+          }}
+        </span>
+      </td>
+			<td>{{task.tHeader}}</td>
+			<td><a href="{{task.tURL}}">{{task.tURL}}</a></td>
+			<td>{{task.tDateTime}}</td>
+			<td>{{task.tPriv}}</td>
+			<td>{{task.tOperator}}</td>
+			<td><a ng-click="delTask(task._id)"><i class="icon-trash" ></i></a></td>												
+        </tr>
+		
+	</tbody>	
+</table>	
+
+<!--
+<span ng-repeat="page in pages">
+  <a href='#' ng-click='loadPage(page.start)'>{{page.pageNumber}}</a>  
+</span> 
+-->
+<ul class="pager">
+  <li><a href="" ng-click = 'loadPage(-1)'>上一页</a></li>
+  <li><a href="">第{{currentPage}}/{{pages.length}}页</a></li>
+  <li><a href="" ng-click = 'loadPage(1)'>下一页</a></li>
+</ul>
+
+		        	<div><!-- row-fluid END-->
+		        </div><!-- span9 END-->
+		</div><!-- row-fluid END-->
+
+    </div><!--container-fluid END -->
+
+
+      <hr>
+
+      <footer>
+        <p>悟空网络&copy; Company 2013</p>
+      </footer>
+
+    </div><!--/.fluid-container-->
+ 
+<!-- Modal -->
+</div>
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">添加下发计划</h3>
+  </div>
+  <div class="modal-body">
+
+<!-- 提交时调用addSendPlan方法 不能再次定义ng-click 否则会调用两次  重复submit-->
+<form class="form-horizontal" ng-submit="addSendPlan()">
+<div class="control-group" ng-class="{error: myForm.name.$invalid}">
+  <label class="control-label">用户属性：</label>
+  <div class="controls">
+   
+    <div class="span2">
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['3G-iPhone']">3G-iPhone
+      </label>
+
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['2G-iPhone']">2G-iPhone
+      </label>
+    </div>
+
+    <div class="span2">
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['3G-Android']">3G-Android
+      </label>
+
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['2G-Android']">2G-Android
+      </label>
+    </div>
+
+    <div class="span2">
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['3G-活跃']">3G-活跃
+      </label>
+
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['2G-活跃']">2G-活跃
+      </label>
+    </div>
+    <div class="span2">
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['3G-非活跃']">3G-非活跃
+      </label>
+
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['2G-非活跃']">2G-非活跃
+      </label>
+    </div>
+    <div class="span2">
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['3G-沉默']">3G-沉默
+      </label>
+
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['2G-沉默']">2G-沉默
+      </label>
+    </div>                  
+    <div class="span2">
+      <label class="text">
+        <input type="checkbox" style="visibility : hidden">
+      </label>
+    
+      <label class="checkbox">
+        <input type="checkbox" ng-model="userType['地市提供号码包']">地市提供号码包
+      </label>
+    </div>
+
+  </div>
+</div>
+<div class="control-group">
+    <label class="control-label">标题：</label>
+    <div class="controls">
+      <input ng-model="tHeader" type="text" placeholder="请键入标题....">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label">URL：</label>
+    <div class="controls">
+      <input ng-model="tURL" type="text" placeholder="请键入URL....">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label">下发日期：</label>
+    <div class="controls">
+      <input ng-model="tDateTime" type="text" id="datepicker" readonly="readonly">
+    </div>
+  </div>
+  <div class="control-group">
+    <label class="control-label" for="inputEmail">优先级：</label>
+    <div class="controls">
+      <select ng-model="tPriv">
+        <option>市分优先</option>
+        <option>省分优先</option>
+        <option>同步排重</option>                 
+      </select>
+    </div>
+  </div>          
+  <div class="control-group">
+    <label class="control-label">备注：</label>
+    <div class="controls">
+      <textarea ng-model="tComment" type="textarea" placeholder="备注...."></textarea>
+    </div>
+  </div>
+
+  <div class="control-group">
+    <div class="controls">
+      <input type="submit" class="btn-large btn-primary" ng-disabled="myForm.$invalid"></input>
+    </div>
+  </div>
+
+</form><!-- End of hor form class-->
+  </div>
+</div><!-- End of ng controller end-->
+  <script type="text/javascript">
+      $(document).ready(function(){
+          // Datepicker
+          $('#datepicker').datepicker({
+  
+            });
+      });
+
+  </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46162338-1', 'wukong.com');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
